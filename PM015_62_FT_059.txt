@@ -1,0 +1,245 @@
+Parameters for C:\tterm\Program PM Utestasjon D\pm15 D.pmd
+Generated Mon Jun 21 14:49:11 2021
+
+Numb  Descriptor                                Value
+--------------------------------------------------------------
+400   RN. Volum A                               19.989180
+401   RN. Volum B                               19.986270
+402   RN. Volum C                               19.989480
+403   RN. Volum D                               19.986570
+404   K0 Termisk Utvidelses Koeff.              346.422800
+405   K1 Termisk Utvidelses Koeff.              0.438800
+406   Damptrykk                                 0.000000
+407   Krympefaktor                              1.000000
+408   Valgt Rørn. Volum                         0.000000
+409   Referanse Tetthet for Vann                999.098000
+410   Maks. RN. Innløp Temp. Avvik              0.450000
+411   Maks. RN Innløp Trykk Avvik               0.400000
+412   Maks. RN. Utløp Temp. Avvik               0.450000
+413   Maks. RN. Utløp Trykk Avvik               0.400000
+415   EM  - Rørn. Kubisk Eksp.                  0.000034
+416   DP  - Rørn. Indre Diameter                0.742950
+417   TP  - Rørn. Veggtykkelse                  0.009525
+418   EMP - Rørn. Elastisitet                   2060000.000000
+419   Referanse Tetthet                         782.843750
+420   Maks. Avvik Målt - Tilb.fall              5.000000
+421   Maks. Tetth. Avvik A/B                    5.000000
+423   RN. Inn Temp. Mod. Op. Valgt              1.000000
+424   RN. Inn Trykk Mod. Op. Valgt              1.000000
+425   RN. Ut Temp. Mod. Op. Valgt               1.000000
+426   RN. Ut Trykk Mod. Op. Valgt               1.000000
+427   Maks. Dens.Temp. Avvik A/B                0.400000
+428   Dens.Temp. Modus Op. Valgt                1.000000
+429   Maks. Dens.Trykk Avvik A/B                0.400000
+430   Dens.Trykk Modus Op. Valgt                1.000000
+435   K0        - Densitometer B                -1222.680000
+436   K1        - Densitometer B                -0.473173
+437   K2        - Densitometer B                0.004005
+438   K18       - Densitometer B                -0.000023
+439   K19       - Densitometer B                -0.002619
+440   K20A Low  - Densitometer B                -0.000012
+441   K20B Low  - Densitometer B                -0.000000
+442   K21A Low  - Densitometer B                -0.016950
+443   K21B Low  - Densitometer B                -0.000644
+444   K20A High - Densitometer B                0.000000
+445   K20B High - Densitometer B                0.000000
+446   K21A High - Densitometer B                0.000000
+447   K21B High - Densitometer B                0.000000
+448   Kalib. Temp. - Dens. B                    20.000000
+449   Kalib. Trykk - Dens. B                    1.000000
+450   Maks. Temp. Avvik RN - Linje              2.000000
+451   Maks. Trykk Avvik RN - Linje              1.000000
+452   Maks. Volumstrøm Avvik                    30.000000
+453   Volumstrøm Interlock Grense               200.000000
+460   Tid for døgnskift                         0.000000
+461   Linje Referanse Temperatur                15.000000
+462   Linje Referanse Trykk                     0.000000
+467   Tetthets Modus Op. Valgt                  0.000000
+469   RN. Ut-Ventil Å/S Tid                     100.000000
+470   RN. Ut-Ventil Dren. Tid                   1.000000
+471   RN. Ut-Ventil Lek.Test Tid                20.000000
+472   4-Veis Ventil Å/S Tid                     30.000000
+480   Maks. Stabiliserings Tid                  600.000000
+481   Min. Tid for Stabil Volumstr              60.000000
+482   Maks. Tid til 1. Detektor                 30.000000
+483   Maks. Tid til 2. Detektor                 180.000000
+484   Ventetid før 4-v. Vent. Snus              10.000000
+485   Maks. Avvik Ny - Gammel KF                0.150000
+486   Repeterbarhetsgrense                      0.050000
+500   Parameter Dummy                           0.000000
+501   Elektrisk Min.                            4.000000
+502   Elektrisk Maks.                           20.000000
+504   Prøvetaker Pulslengde                     1.000000
+505   Prøvetaker Avtid                          5.000000
+506   Prøvetaker Prod. pr. Prøve                10.000000
+507   Prøvetaker Tid Mellom Prøver              10.000000
+508   Prøvetaker B Min. Pulslende               1.000000
+509   Prøvetaker B Min. Prøvetid                5.000000
+510   Prøvetaker B Prod. pr. Prøve              10.000000
+511   Prøvetaker B Samplingstid                 10.000000
+512   Målt Klokkefrekvens IPIMC 1               312500.000000
+513   IPIMC Ant. Pulser pr. Måling              700.000000
+514   Antall Prøver i Vedlikeholdstest          10.000000
+519   Isent. Eksp. v/Linjebet.                  1.200000
+520   Isent. Eksp. v/Ref. Bet.                  1.200000
+521   Dyn. Viskositet v/Linjebet.               0.000009
+535   K0        - Densitometer A                -1241.625000
+536   K1        - Densitometer A                -0.434452
+537   K2        - Densitometer A                0.004020
+538   K18       - Densitometer A                -0.000029
+539   K19       - Densitometer A                -0.010943
+540   K20A Low  - Densitometer A                0.000009
+541   K20B Low  - Densitometer A                -0.000001
+542   K21A Low  - Densitometer A                0.013028
+543   K21B Low  - Densitometer A                -0.000776
+544   K20A High - Densitometer A                0.000000
+545   K20B High - Densitometer A                0.000000
+546   K21A High - Densitometer A                0.000000
+547   K21B High - Densitometer A                0.000000
+548   Kalib. Temp. - Dens. A                    20.000000
+549   Kalib. Trykk - Dens. A                    1.000000
+590   Lastenummer                               0.000000
+600   Rørn. Innløp Temp.Element A - R0          100.000000
+601   Rørn. Innløp Temp.Element A - A           0.003908
+602   Rørn. Innløp Temp.Element A - B           -0.000001
+603   Rørn. Innløp Temp.Element A - C           0.000000
+604   Rørn. Innløp Temp.Element B - R0          100.000000
+605   Rørn. Innløp Temp.Element B - A           0.003908
+606   Rørn. Innløp Temp.Element B - B           -0.000001
+607   Rørn. Innløp Temp.Element B - C           0.000000
+608   Rørn. Utløp Temp.Element A - R0           100.000000
+609   Rørn. Utløp Temp.Element A - A            0.003908
+610   Rørn. Utløp Temp.Element A - B            -0.000001
+611   Rørn. Utløp Temp.Element A - C            0.000000
+612   Rørn. Utløp Temp.Element B - R0           100.000000
+613   Rørn. Utløp Temp.Element B - A            0.003908
+614   Rørn. Utløp Temp.Element B - B            -0.000001
+615   Rørn. Utløp Temp.Element B - C            0.000000
+616   Densitometer Temp.Element A - R0          100.000000
+617   Densitometer Temp.Element A - A           0.003908
+618   Densitometer Temp.Element A - B           -0.000001
+619   Densitometer Temp.Element A - C           0.000000
+620   Densitometer Temp.Element B - R0          100.000000
+621   Densitometer Temp.Element B - A           0.003908
+622   Densitometer Temp.Element B - B           -0.000001
+623   Densitometer Temp.Element B - C           0.000000
+650   RN. Reg. Vent. - Fys. Min                 0.000000
+651   RN. Reg. Vent. - Fys. Maks.               100.000000
+652   RN. Reg. Vent. - Fys. Offs                0.000000
+653   Fys. Min. - Prøvet. Vekt                  0.000000
+654   Fys. Maks. - Prøvet. Vekt                 8.000000
+655   Fys. Offs. - Prøvet. Vekt                 0.000000
+656   AI Fysisk Min. - Kanal 2                  0.000000
+657   AI Fysisk Maks. - Kanal 2                 100.000000
+658   AI Fysisk Offset - Kanal 2                0.000000
+659   Fys. Min. - Prøvet. B Nivå                0.000000
+660   Fys. Maks. - Prøvet. B Nivå               100.000000
+661   Fys. Offs. - Prøvet. B Nivå               0.000000
+662   AI Fysisk Min. - Kanal 4                  0.000000
+663   AI Fysisk Maks. - Kanal 4                 100.000000
+664   AI Fysisk Offset - Kanal 4                0.000000
+665   AI Fysisk Min. - Kanal 5                  0.000000
+666   AI Fysisk Maks. - Kanal 5                 100.000000
+667   AI Fysisk Offset - Kanal 5                0.000000
+668   AI Fysisk Min. - Kanal 6                  0.000000
+669   AI Fysisk Maks. - Kanal 6                 100.000000
+670   AI Fysisk Offset - Kanal 6                0.000000
+671   AI Fysisk Min. - Kanal 7                  0.000000
+672   AI Fysisk Maks. - Kanal 7                 100.000000
+673   AI Fysisk Offset - Kanal 7                0.000000
+680   RN. Reg. Vent. - Fys. Min.                100.000000
+681   RN. Reg. Vent. - Fys. Maks.               0.000000
+682   RN. Reg. Vent. - Fys. Offs.               0.000000
+683   AO Fysisk Min. - Kanal 1                  0.000000
+684   AO Fysisk Maks. - Kanal 1                 100.000000
+685   AO Fysisk Offset - Kanal 1                0.000000
+686   AO Fysisk Min. - Kanal 2                  0.000000
+687   AO Fysisk Maks. - Kanal 2                 100.000000
+688   AO Fysisk Offset - Kanal 2                0.000000
+689   AO Fysisk Min. - Kanal 3                  0.000000
+690   AO Fysisk Maks. - Kanal 3                 100.000000
+691   AO Fysisk Offset - Kanal 3                0.000000
+1408  EH  - Turb.M. Hus Eksp.                   0.000017
+1409  ER  - Turb.M. Rotor Eksp.                 0.000017
+1410  R   - Turb.M. Radius                      101.600000
+1411  EMM - Turb.M. Elastitet                   1900000.000000
+1412  AT  - Turb.M. Rotor Areal                 11778.000000
+1413  T   - Turb.M. Veggtykkelse                12.700000
+1414  E   - Turb.M. Poissons Tall               0.291000
+1415  Maks. Linjetrykk Avvik A/B                0.400000
+1416  Maks. Linjetemp. Avvik A/B                0.600000
+1450  K-Faktor                                  3324.468000
+1451  M-Faktor                                  1.000000
+1460  Inn-Ventil Å/S Tid                        120.000000
+1461  Inn-Ventil Drenerings Tid                 1.000000
+1462  Inn-Ventil Lekkasjetest Tid               1.000000
+1463  Ut-Ventil Å/S Tid                         120.000000
+1464  Ut-Ventil Drenerings Tid                  1.000000
+1465  Ut-Ventil Lekkasjetest Tid                20.000000
+1466  RN. Inn-Ventil Å/S Tid                    120.000000
+1467  RN. Inn-Ventil Dren. Tid                  1.000000
+1468  RN. Inn-Ventil Lek.Test Tid               20.000000
+1500  Linjetrykk Tilbakefallsverdi              0.000000
+1501  Linjetrykk Lav Grense                     -1.000000
+1502  Linjetrykk Høy Grense                     13.500000
+1503  Linjetemp. Tilb.f. Verdi                  15.842953
+1504  Linjetemp. Lav Grense                     -10.000000
+1505  Linjetemp. Høy Grense                     50.000000
+1510  Linjetrykk Modus Op. Valgt                1.000000
+1511  Linjetemp. Modus Op. Valgt                1.000000
+1513  Blendeplate Diameter                      202.000000
+1514  Blendeplate Kal. Temperatur               20.000000
+1515  Blendeplate Eksp. Koeff                   0.000017
+1516  Linje Diameter                            337.000000
+1517  Linje Kal. Temperatur                     20.000000
+1518  Linje Eksp. Koeff                         0.000013
+1520  Linje Vedlikeh. Kommando                  0.000000
+1562  Linjereg. Forsterkning                    0.005000
+1563  Linjereg. Integraltid                     0.070000
+1564  Linjereg. Derivasjonstid                  0.000000
+1565  Linjereg. Hysterese                       10.000000
+1566  Regulatorfunksjon                         0.000000
+1600  Linje Temp.Element A - R0                 99.988000
+1601  Linje Temp.Element A - A                  0.003907
+1602  Linje Temp.Element A - B                  -0.000001
+1603  Linje Temp.Element A - C                  0.000000
+1604  Linje Temp.Element B - R0                 100.000000
+1605  Linje Temp.Element B - A                  0.003908
+1606  Linje Temp.Element B - B                  -0.000001
+1607  Linje Temp.Element B - C                  0.000000
+1650  Reg. Vent. Pos. - Fys. Min.               0.000000
+1651  Reg. Vent. Pos. - Fys. Maks.              100.000000
+1652  Reg. Vent. Pos. - Fys. Offs.              0.000000
+1653  AI Fysisk Min. - Kanal 1                  0.000000
+1654  AI Fysisk Maks. - Kanal 1                 100.000000
+1655  AI Fys. Offset - Kanal 1                  0.000000
+1656  AI Fysisk Min. - Kanal 2                  0.000000
+1657  AI Fysisk Maks. - Kanal 2                 100.000000
+1658  AI Fys. Offset - Kanal 2                  0.000000
+1659  AI Fysisk Min. - Kanal 3                  0.000000
+1660  AI Fysisk Maks. - Kanal 3                 100.000000
+1661  AI Fys. Offset - Kanal 3                  0.000000
+1662  AI Fysisk Min. - Kanal 4                  0.000000
+1663  AI Fysisk Maks. - Kanal 4                 100.000000
+1664  AI Fys. Offset - Kanal 4                  0.000000
+1665  AI Fysisk Min. - Kanal 5                  0.000000
+1666  AI Fysisk Maks. - Kanal 5                 100.000000
+1667  AI Fys. Offset - Kanal 5                  0.000000
+1668  AI Fysisk Min. - Kanal 6                  0.000000
+1669  AI Fysisk Maks. - Kanal 6                 100.000000
+1670  AI Fys. Offset - Kanal 6                  0.000000
+1671  AI Fysisk Min. - Kanal 7                  0.000000
+1672  AI Fysisk Maks. - Kanal 7                 100.000000
+1673  AI Fys. Offset - Kanal 7                  0.000000
+1680  Reg. Vent. - Fys. Min.                    100.000000
+1681  Reg. Vent. - Fys. Maks.                   0.000000
+1682  Reg. Vent. - Fys. Offs.                   0.000000
+1683  AO Fysisk Min. - Kanal 1                  0.000000
+1684  AO Fysisk Maks. - Kanal 1                 1200.000000
+1685  AO Fysisk Offset - Kanal 1                0.000000
+1686  AO Fysisk Min. - Kanal 2                  0.000000
+1687  AO Fysisk Maks. - Kanal 2                 100.000000
+1688  AO Fysisk Offset - Kanal 2                0.000000
+1689  AO Fysisk Min. - Kanal 3                  0.000000
+1690  AO Fysisk Maks. - Kanal 3                 100.000000
+1691  AO Fysisk Offset - Kanal 3                0.000000
